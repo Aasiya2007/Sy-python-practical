@@ -15,4 +15,5 @@ elif signal=="green":
   print( "action:go")
     
 else:
-  print("invalid color enter red,yellow or green: ")
+  print("invalid color enter:")
+ print ("red,yellow or green: ")

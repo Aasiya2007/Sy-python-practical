@@ -16,4 +16,4 @@ elif signal=="green":
     
 else:
   print("invalid color enter:")
- print ("red,yellow or green: ")
+  print ("red,yellow or green: ")
